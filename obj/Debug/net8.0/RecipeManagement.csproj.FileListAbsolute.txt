@@ -1,0 +1,14 @@
+C:\Users\farah\RecipeManagement\bin\Debug\net8.0\RecipeManagement.exe
+C:\Users\farah\RecipeManagement\bin\Debug\net8.0\RecipeManagement.deps.json
+C:\Users\farah\RecipeManagement\bin\Debug\net8.0\RecipeManagement.runtimeconfig.json
+C:\Users\farah\RecipeManagement\bin\Debug\net8.0\RecipeManagement.dll
+C:\Users\farah\RecipeManagement\bin\Debug\net8.0\RecipeManagement.pdb
+C:\Users\farah\RecipeManagement\obj\Debug\net8.0\RecipeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farah\RecipeManagement\obj\Debug\net8.0\RecipeManagement.AssemblyInfoInputs.cache
+C:\Users\farah\RecipeManagement\obj\Debug\net8.0\RecipeManagement.AssemblyInfo.cs
+C:\Users\farah\RecipeManagement\obj\Debug\net8.0\RecipeManagement.csproj.CoreCompileInputs.cache
+C:\Users\farah\RecipeManagement\obj\Debug\net8.0\RecipeManagement.dll
+C:\Users\farah\RecipeManagement\obj\Debug\net8.0\refint\RecipeManagement.dll
+C:\Users\farah\RecipeManagement\obj\Debug\net8.0\RecipeManagement.pdb
+C:\Users\farah\RecipeManagement\obj\Debug\net8.0\RecipeManagement.genruntimeconfig.cache
+C:\Users\farah\RecipeManagement\obj\Debug\net8.0\ref\RecipeManagement.dll
