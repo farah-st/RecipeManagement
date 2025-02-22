@@ -12,3 +12,4 @@ C:\Users\farah\RecipeManagement\obj\Debug\net8.0\refint\RecipeManagement.dll
 C:\Users\farah\RecipeManagement\obj\Debug\net8.0\RecipeManagement.pdb
 C:\Users\farah\RecipeManagement\obj\Debug\net8.0\RecipeManagement.genruntimeconfig.cache
 C:\Users\farah\RecipeManagement\obj\Debug\net8.0\ref\RecipeManagement.dll
+C:\Users\farah\RecipeManagement\obj\Debug\net8.0\RecipeManagement.sourcelink.json
